@@ -15,11 +15,9 @@ This project is a web-based interactive spreadsheet for displaying and manipulat
 
 ### index.html
 
-This is the main HTML file that contains the structure of the webpage.
+This is the main HTML file that contains the structure of the webpage (see full HTML code in this repository).
 
-```html
-<!-- HTML code goes here -->
-```
+![Alt-text](https://github.com/SFrank80/SBA-JavaScript-Fundamentals/blob/main/Assignment%20Snippet%20Image/html%20snippet%20image.JPG)
 
 ### styles.css
 
