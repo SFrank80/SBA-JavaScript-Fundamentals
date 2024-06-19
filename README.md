@@ -16,40 +16,38 @@ This project is a web-based interactive spreadsheet for displaying and manipulat
 ### index.html
 
 This is the main HTML file that contains the structure of the webpage (see full HTML code in this repository).
-
-https://github.com/SFrank80/SBA-JavaScript-Fundamentals/blob/994452c087716f7352c43944e03d9cc89260a23a/Assignment%20Snippet%20Image/html%20snippet%20image.JPG
+![Alt-text](https://github.com/SFrank80/SBA-JavaScript-Fundamentals/blob/994452c087716f7352c43944e03d9cc89260a23a/Assignment%20Snippet%20Image/html%20snippet%20image.JPG)
 
 ### styles.css
 
-This file contains the CSS styles used to style the webpage.
-
-https://github.com/SFrank80/SBA-JavaScript-Fundamentals/blob/994452c087716f7352c43944e03d9cc89260a23a/Assignment%20Snippet%20Image/css%20snippet%20image%201.JPG
-https://github.com/SFrank80/SBA-JavaScript-Fundamentals/blob/994452c087716f7352c43944e03d9cc89260a23a/Assignment%20Snippet%20Image/css%20snippet%20image%202.JPG
-https://github.com/SFrank80/SBA-JavaScript-Fundamentals/blob/994452c087716f7352c43944e03d9cc89260a23a/Assignment%20Snippet%20Image/css%20snippet%20image%203.JPG
+This file contains the CSS styles used to style the webpage (see full CSS code in this repository).
+![Alt-text](https://github.com/SFrank80/SBA-JavaScript-Fundamentals/blob/994452c087716f7352c43944e03d9cc89260a23a/Assignment%20Snippet%20Image/css%20snippet%20image%201.JPG)
+![Alt-text](https://github.com/SFrank80/SBA-JavaScript-Fundamentals/blob/994452c087716f7352c43944e03d9cc89260a23a/Assignment%20Snippet%20Image/css%20snippet%20image%202.JPG)
+![Alt-text]9https://github.com/SFrank80/SBA-JavaScript-Fundamentals/blob/994452c087716f7352c43944e03d9cc89260a23a/Assignment%20Snippet%20Image/css%20snippet%20image%203.JPG)
 
 ### scripts.js
 
-This file contains the JavaScript logic for the webpage, including calculating average percentages and updating the HTML dynamically.
-
-https://github.com/SFrank80/SBA-JavaScript-Fundamentals/blob/994452c087716f7352c43944e03d9cc89260a23a/Assignment%20Snippet%20Image/javascript%20snippet%20image%201.JPG
-https://github.com/SFrank80/SBA-JavaScript-Fundamentals/blob/994452c087716f7352c43944e03d9cc89260a23a/Assignment%20Snippet%20Image/javascript%20snippet%20image%202.JPG
-https://github.com/SFrank80/SBA-JavaScript-Fundamentals/blob/994452c087716f7352c43944e03d9cc89260a23a/Assignment%20Snippet%20Image/javascript%20snippet%20image%203.JPG
-https://github.com/SFrank80/SBA-JavaScript-Fundamentals/blob/994452c087716f7352c43944e03d9cc89260a23a/Assignment%20Snippet%20Image/javascript%20snippet%20image%204.JPG
-https://github.com/SFrank80/SBA-JavaScript-Fundamentals/blob/994452c087716f7352c43944e03d9cc89260a23a/Assignment%20Snippet%20Image/javascript%20snippet%20image%205.JPG
+This file contains the JavaScript logic for the webpage, including calculating average percentages and updating the HTML dynamically (see full JS code in this repository).
+![Alt-text](https://github.com/SFrank80/SBA-JavaScript-Fundamentals/blob/994452c087716f7352c43944e03d9cc89260a23a/Assignment%20Snippet%20Image/javascript%20snippet%20image%201.JPG)
+![Alt-text](https://github.com/SFrank80/SBA-JavaScript-Fundamentals/blob/994452c087716f7352c43944e03d9cc89260a23a/Assignment%20Snippet%20Image/javascript%20snippet%20image%202.JPG)
+![Alt-text](https://github.com/SFrank80/SBA-JavaScript-Fundamentals/blob/994452c087716f7352c43944e03d9cc89260a23a/Assignment%20Snippet%20Image/javascript%20snippet%20image%203.JPG)
+![Alt-text](https://github.com/SFrank80/SBA-JavaScript-Fundamentals/blob/994452c087716f7352c43944e03d9cc89260a23a/Assignment%20Snippet%20Image/javascript%20snippet%20image%204.JPG)
+![Alt-text](https://github.com/SFrank80/SBA-JavaScript-Fundamentals/blob/994452c087716f7352c43944e03d9cc89260a23a/Assignment%20Snippet%20Image/javascript%20snippet%20image%205.JPG)
 
 ### script-example.js
 
-This file contains the basic foundation and example code used as a starting point for the project.
+This file contains the basic foundation and example code used as a starting point for the project (see full HTML JS example code in this repository).
+![Alt-text](https://github.com/SFrank80/SBA-JavaScript-Fundamentals/blob/994452c087716f7352c43944e03d9cc89260a23a/Assignment%20Snippet%20Image/jsexample%20snippet%20image%201.JPG)
+![Alt-text](https://github.com/SFrank80/SBA-JavaScript-Fundamentals/blob/994452c087716f7352c43944e03d9cc89260a23a/Assignment%20Snippet%20Image/jsexample%20snippet%20image%202.JPG)
+![Alt-text](https://github.com/SFrank80/SBA-JavaScript-Fundamentals/blob/994452c087716f7352c43944e03d9cc89260a23a/Assignment%20Snippet%20Image/jsexample%20snippet%20image%203.JPG)
+![Alt-text](https://github.com/SFrank80/SBA-JavaScript-Fundamentals/blob/994452c087716f7352c43944e03d9cc89260a23a/Assignment%20Snippet%20Image/jsexample%20snippet%20image%204.JPG)
+![Alt-text](https://github.com/SFrank80/SBA-JavaScript-Fundamentals/blob/994452c087716f7352c43944e03d9cc89260a23a/Assignment%20Snippet%20Image/jsexample%20snippet%20image%205.JPG)
+![Alt-text](https://github.com/SFrank80/SBA-JavaScript-Fundamentals/blob/994452c087716f7352c43944e03d9cc89260a23a/Assignment%20Snippet%20Image/jsexample%20snippet%20image%206.JPG)
+![Alt-text](https://github.com/SFrank80/SBA-JavaScript-Fundamentals/blob/994452c087716f7352c43944e03d9cc89260a23a/Assignment%20Snippet%20Image/jsexample%20snippet%20image%207.JPG)
+![Alt-text](https://github.com/SFrank80/SBA-JavaScript-Fundamentals/blob/994452c087716f7352c43944e03d9cc89260a23a/Assignment%20Snippet%20Image/jsexample%20snippet%20image%208.JPG)
+![Alt-text](https://github.com/SFrank80/SBA-JavaScript-Fundamentals/blob/994452c087716f7352c43944e03d9cc89260a23a/Assignment%20Snippet%20Image/jsexample%20snippet%20image%209.JPG)
 
-https://github.com/SFrank80/SBA-JavaScript-Fundamentals/blob/994452c087716f7352c43944e03d9cc89260a23a/Assignment%20Snippet%20Image/jsexample%20snippet%20image%201.JPG
-https://github.com/SFrank80/SBA-JavaScript-Fundamentals/blob/994452c087716f7352c43944e03d9cc89260a23a/Assignment%20Snippet%20Image/jsexample%20snippet%20image%202.JPG
-https://github.com/SFrank80/SBA-JavaScript-Fundamentals/blob/994452c087716f7352c43944e03d9cc89260a23a/Assignment%20Snippet%20Image/jsexample%20snippet%20image%203.JPG
-https://github.com/SFrank80/SBA-JavaScript-Fundamentals/blob/994452c087716f7352c43944e03d9cc89260a23a/Assignment%20Snippet%20Image/jsexample%20snippet%20image%204.JPG
-https://github.com/SFrank80/SBA-JavaScript-Fundamentals/blob/994452c087716f7352c43944e03d9cc89260a23a/Assignment%20Snippet%20Image/jsexample%20snippet%20image%205.JPG
-https://github.com/SFrank80/SBA-JavaScript-Fundamentals/blob/994452c087716f7352c43944e03d9cc89260a23a/Assignment%20Snippet%20Image/jsexample%20snippet%20image%206.JPG
-https://github.com/SFrank80/SBA-JavaScript-Fundamentals/blob/994452c087716f7352c43944e03d9cc89260a23a/Assignment%20Snippet%20Image/jsexample%20snippet%20image%207.JPG
-https://github.com/SFrank80/SBA-JavaScript-Fundamentals/blob/994452c087716f7352c43944e03d9cc89260a23a/Assignment%20Snippet%20Image/jsexample%20snippet%20image%208.JPG
-https://github.com/SFrank80/SBA-JavaScript-Fundamentals/blob/994452c087716f7352c43944e03d9cc89260a23a/Assignment%20Snippet%20Image/jsexample%20snippet%20image%209.JPG
+
 
 ## Debugging Steps
 
@@ -84,8 +82,7 @@ https://github.com/SFrank80/SBA-JavaScript-Fundamentals/blob/994452c087716f7352c
 This project demonstrates an interactive spreadsheet application for managing and displaying student assignment scores. The detailed steps, debugging process, and manual changes ensure a robust and user-friendly experience. The `script-example.js` file provides a foundational example, while `scripts.js` includes the comprehensive logic for dynamic updates and calculations.
 
 ## Image of the Completed SBA-JavaScript Fundamentals Project
-https://github.com/SFrank80/SBA-JavaScript-Fundamentals/blob/994452c087716f7352c43944e03d9cc89260a23a/Assignment%20Snippet%20Image/SBA%20JavaScript%20Fundamentals%20Assignment%20Completed.JPG
-
+![Alt-text](https://github.com/SFrank80/SBA-JavaScript-Fundamentals/blob/994452c087716f7352c43944e03d9cc89260a23a/Assignment%20Snippet%20Image/SBA%20JavaScript%20Fundamentals%20Assignment%20Completed.JPG)
 
 
 
