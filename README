@@ -45,29 +45,29 @@ This file contains the basic foundation and example code used as a starting poin
 
 ## Debugging Steps
 
-1. **Initial Issue Identification**:
+1. Initial Issue Identification:
    - The initial JavaScript code failed to dynamically update the `NULL` string when scores were changed.
    - Identified issues with event listeners not correctly updating the DOM elements.
 
-2. **Fixing Event Listeners**:
+2. Fixing Event Listeners:
    - Added `input` event listeners to ensure the average percentage updates correctly when scores are input.
    - Ensured that `calculateAverage` function correctly handles cases where scores are zero or `NULL`.
 
-3. **Manual Testing**:
+3. Manual Testing:
    - Tested the application by inputting various scores in the table and verifying the `NULL` handling and average percentage calculations.
    - Verified the responsive design by resizing the browser window and ensuring the layout adapts correctly.
 
-4. **Final Validation**:
+4. Final Validation:
    - Confirmed that the average percentage column dynamically updates based on input changes.
    - Ensured that the percentages for below and above average students are calculated and displayed correctly.
 
 ## Manual Changes to HTML/CSS
 
-1. **HTML**:
+1. HTML:
    - Added `table`, `thead`, `tbody`, and `tr` elements to structure the student scores table.
    - Included summary elements to display below and above average percentages.
 
-2. **CSS**:
+2. CSS:
    - Applied styles to make the table visually appealing, including borders and background colors.
    - Implemented responsive design using media queries to ensure the table adapts to various screen sizes.
 
