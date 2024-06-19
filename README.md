@@ -23,7 +23,7 @@ This is the main HTML file that contains the structure of the webpage (see full 
 This file contains the CSS styles used to style the webpage (see full CSS code in this repository).
 ![Alt-text](https://github.com/SFrank80/SBA-JavaScript-Fundamentals/blob/994452c087716f7352c43944e03d9cc89260a23a/Assignment%20Snippet%20Image/css%20snippet%20image%201.JPG)
 ![Alt-text](https://github.com/SFrank80/SBA-JavaScript-Fundamentals/blob/994452c087716f7352c43944e03d9cc89260a23a/Assignment%20Snippet%20Image/css%20snippet%20image%202.JPG)
-![Alt-text]9https://github.com/SFrank80/SBA-JavaScript-Fundamentals/blob/994452c087716f7352c43944e03d9cc89260a23a/Assignment%20Snippet%20Image/css%20snippet%20image%203.JPG)
+![Alt-text](https://github.com/SFrank80/SBA-JavaScript-Fundamentals/blob/994452c087716f7352c43944e03d9cc89260a23a/Assignment%20Snippet%20Image/css%20snippet%20image%203.JPG)
 
 ### scripts.js
 
