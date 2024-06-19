@@ -36,7 +36,7 @@ This file contains the JavaScript logic for the webpage, including calculating a
 
 ### script-example.js
 
-This file contains the basic foundation and example code used as a starting point for the project (see full HTML JS example code in this repository).
+This file contains the basic foundation and example code used as a starting point for the project (see full JS example code in this repository).
 ![Alt-text](https://github.com/SFrank80/SBA-JavaScript-Fundamentals/blob/994452c087716f7352c43944e03d9cc89260a23a/Assignment%20Snippet%20Image/jsexample%20snippet%20image%201.JPG)
 ![Alt-text](https://github.com/SFrank80/SBA-JavaScript-Fundamentals/blob/994452c087716f7352c43944e03d9cc89260a23a/Assignment%20Snippet%20Image/jsexample%20snippet%20image%202.JPG)
 ![Alt-text](https://github.com/SFrank80/SBA-JavaScript-Fundamentals/blob/994452c087716f7352c43944e03d9cc89260a23a/Assignment%20Snippet%20Image/jsexample%20snippet%20image%203.JPG)
